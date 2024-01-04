@@ -1,0 +1,1 @@
+DELETE FROM Paciente WHERE Apellido=Blasco

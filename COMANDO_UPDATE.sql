@@ -1,0 +1,1 @@
+UPDATE Paciente SET  observacion='Paciente creado por administrador'

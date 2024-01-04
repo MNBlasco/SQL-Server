@@ -1,0 +1,1 @@
+SELECT apellido FROM paciente GROUP BY apellido

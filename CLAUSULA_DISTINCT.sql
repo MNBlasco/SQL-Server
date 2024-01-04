@@ -1,0 +1,1 @@
+SELECT DISTINCT apellido from Paciente

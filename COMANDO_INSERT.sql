@@ -1,0 +1,1 @@
+INSERT INTO Paciente (nombre,apellido,fNacimiento) VALUES ('Pedro','Cortazar','1995-05-05')
